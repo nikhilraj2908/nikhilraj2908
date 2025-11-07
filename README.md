@@ -89,9 +89,7 @@
 
 🏅 **Best All-Rounder (SATI Vidisha 2019–2023)**  
 🏋️ **National Level Mallakhamb Player** — Founder, Mallakhamb Association Vidisha  
-🎖️ **NCC “C” Certificate Holder**  
-💡 **Top 10 College Innovators** — SATI Tech Fest 2023  
-
+🎖️ **NCC “C” Certificate Holder**   
 ---
 
 
