@@ -16,7 +16,7 @@
 
 ---
 
-### 🧠 About Me
+###  About Me
 💻 Passionate **MERN Stack Developer** with hands-on experience building scalable, responsive, and dynamic web applications.  
 ⚙️ Skilled in **React.js**, **Node.js**, **Express.js**, **MongoDB**, and **AWS**.  
 🎯 I enjoy solving real-world problems through clean code, automation, and smart design.  
@@ -26,7 +26,7 @@
 
 ---
 
-### 🧰 Tech Stack
+###  Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"/>
@@ -47,7 +47,7 @@
 
 ---
 
-### 📊 GitHub Analytics
+###  GitHub Analytics
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=nikhilraj2908&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" alt="GitHub Stats"/>
@@ -57,7 +57,7 @@
 
 
 ---
-### 💼 Professional Experience
+###  Professional Experience
 
 **Software Developer — AlogicData**  
 *Jan 2025 – Present | Bhopal, India*  
@@ -71,7 +71,7 @@
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 #### 🧩 **Learning Management System (Moodle-LMS)** *(Jan 2025 – Ongoing)*
 - Built modular LMS with **Admin**, **Regional Manager**, and **User** dashboards.  
@@ -85,7 +85,7 @@
 
 ---
 
-### 🏆 Achievements & Awards
+###  Achievements & Awards
 
 🏅 **Best All-Rounder (SATI Vidisha 2019–2023)**  
 🏋️ **National Level Mallakhamb Player** — Founder, Mallakhamb Association Vidisha  
