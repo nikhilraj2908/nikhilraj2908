@@ -8,7 +8,7 @@
 
 ### 🚀 About Me
 - 🏢 I’m currently working as a **Full Stack Developer at AlogicData**  
-- 📚 I’m currently learning **TypeScript**, **Node.js best practices**, and **Angular basics**  
+- 📚 I’m currently learning **TypeScript**, **Node.js best practices**, and **PHP basics**  
 - 🤝 I’m looking to collaborate on **MERN/LMS customizations (Moodle, SCORM, APIs)**  
 - 💬 Ask me about **React, Node.js, MongoDB, PHP (Moodle), and LMS integrations**  
 - 📫 How to reach me: 
@@ -62,4 +62,4 @@
 ### 🌍 Location & Contact
 - 📍 Bhopal, India  
 - 🌐 Portfolio: **nikhilahirwarcv.netlify.app**  
-- ✉️ Email: **youremail@example.com**  
+- ✉️ Email: **Nikhilraj2908@gmail.com**  
