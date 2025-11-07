@@ -47,6 +47,16 @@
 
 ---
 
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=nikhilraj2908&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" alt="GitHub Stats"/>
+  
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilraj2908&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</p>
+
+
+---
 ### 💼 Professional Experience
 
 **Software Developer — AlogicData**  
@@ -84,16 +94,6 @@
 
 ---
 
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=nikhilraj2908&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" alt="GitHub Stats"/>
-  
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilraj2908&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
-
-
----
 
 <p align="center">
   <i>“Code with logic. Build with passion. Deliver with purpose.”</i>
