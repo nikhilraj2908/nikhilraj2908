@@ -49,7 +49,7 @@
 
 ###  GitHub Analytics
 
-<p align="center">
+<p align="left">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=nikhilraj2908&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" alt="GitHub Stats"/>
   
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilraj2908&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
