@@ -86,9 +86,12 @@
 
 ### 📊 GitHub Analytics
 
+### 📊 GitHub Analytics
+
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=nikhilraj2908&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true"/>
-  <img height="160" src="https://streak-stats.demolab.com?user=nikhilraj2908&theme=tokyonight&hide_border=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=nikhilraj2908&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" alt="GitHub Stats"/>
+  <img height="160" src="https://streak-stats.demolab.com?user=nikhilraj2908&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilraj2908&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 <p align="center">
