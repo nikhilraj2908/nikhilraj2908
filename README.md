@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Nikhil Ahirwar</h1>
 
 <p align="center">
-  <b>Full Stack Developer | MERN | LMS Customization | AWS Learner</b>
+  <b>Full Stack Developer | LMS Customization | AWS Learner</b>
   <br/>
   <a href="mailto:nikhilraj2908@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/>
@@ -17,8 +17,8 @@
 ---
 
 ###  About Me
-💻 Passionate **MERN Stack Developer** with hands-on experience building scalable, responsive, and dynamic web applications.  
-⚙️ Skilled in **React.js**, **Node.js**, **Express.js**, **MongoDB**, and **AWS**.  
+💻 Passionate **Full Stack Developer** with hands-on experience building scalable, responsive, and dynamic web applications.  
+⚙️ Skilled in **React.js**, **Node.js**, **Express.js**, **MongoDB**, **React Native**, and **AWS**.  
 🎯 I enjoy solving real-world problems through clean code, automation, and smart design.  
 🏢 Currently working at **AlogicData, Bhopal** as a **Software Developer**.  
 🌱 Learning and experimenting with **TypeScript** & **Cloud Integrations (AWS)**.  
